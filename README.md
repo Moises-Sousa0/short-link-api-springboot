@@ -13,7 +13,7 @@ Defina as variáveis de ambiente `DB_USER` e `DB_PASSWORD` com as credenciais do
 ## Executar
 
 No PowerShell:
-
+ 
 ```powershell
 $env:DB_USER = "seu_usuario"
 $env:DB_PASSWORD = "sua_senha"
